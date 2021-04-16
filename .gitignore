@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+*~
+*.bak
+.cache*
+*.Rproj
+
+#secret/private files(for example)
+passport.txt
